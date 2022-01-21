@@ -1,6 +1,6 @@
 # bilibili
 
-## 安装依赖xxxYYY
+## 分支提交
 ```
 npm install
 ```
