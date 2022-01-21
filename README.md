@@ -1,6 +1,6 @@
 # bilibili
 
-## 安装依赖
+## 安装依赖xxx
 ```
 npm install
 ```
